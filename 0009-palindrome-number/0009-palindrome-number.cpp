@@ -1,15 +1,26 @@
 class Solution {
 public:
+    int reverse_number(int num)
+    {
+        long long ans=0;
+        while(num)
+        {
+            ans=(ans*10)+num%10;
+            num=num/10;
+        }
+        return ans;
+    }
     bool isPalindrome(int x) {
-        if(x<0 || x!=0 && x%10==0){
+        if(x<0)
+        {
             return false;
         }
-        int check=0;
-
-        while( x>check) {
-            check = check * 10 + x%10 ;
-            x= x / 10;
+        if(x==reverse_number(x))
+        {
+            return true;
         }
-        return (x==check || x==check/10);
+        else{
+            return false;
+        }
     }
 };
