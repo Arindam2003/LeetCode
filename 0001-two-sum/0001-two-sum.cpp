@@ -1,22 +1,18 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        int i,j;
+        unordered_map<int,int> mpp;
         int n=nums.size();
-        
-        vector<int>index;
         for(int i=0;i<n;i++)
         {
-            for(j=i+1;j<n;j++)
+            int number=nums[i];
+            int more=target-number;
+            if(mpp.find(more)!=mpp.end())
             {
-                if((nums[i]+nums[j])==target)
-                {
-                    index.push_back(i);
-                    index.push_back(j);
-                    return index;
-                }
+                return {i,mpp[more]};
             }
+            mpp[number]=i;
         }
-        return {};  //edge case handle
+        return {-1, -1};
     }
 };
