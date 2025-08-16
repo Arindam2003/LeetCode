@@ -1,20 +1,16 @@
 class Solution {
 public:
     int maximumDifference(vector<int>& nums) {
+        int ans=-1, min_till_now=nums[0];
         int n=nums.size();
-
-        int minEle=nums[0];
-        int maxDiff=-1;
-        for(int j=1;j<n;j++)
+        for(int i=1;i<n;i++)
         {
-            if(minEle<nums[j])
+            if(nums[i]>min_till_now)
             {
-                maxDiff=max(nums[j]-minEle,maxDiff);
+                ans=max(ans,nums[i]-min_till_now);
             }
-            else{
-                minEle=nums[j];
-            }
+            min_till_now=min(nums[i],min_till_now);
         }
-        return maxDiff;
+        return ans;
     }
 };
