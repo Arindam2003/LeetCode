@@ -1,47 +1,36 @@
 class Solution {
 public:
-    int maxnum(vector<int>&piles)
+    long reqHour(vector<int>piles,long speed)
     {
-        int maxnum=INT_MIN;
-        for(int i=0;i<piles.size();i++)
+        int n=piles.size();
+        long hour=0;
+        for(int i=0;i<n;i++)
         {
-            if(maxnum<piles[i])
+            hour += piles[i]/speed;
+            if(piles[i]%speed!=0)
             {
-                maxnum=piles[i];
+                hour++;
             }
         }
-        return maxnum;
-    }
-    long long totalmal(vector<int>&piles,int tr)
-    {
-        long long totalmal=0;
-        for(int i=0;i<piles.size();i++)
-        {
-            if(piles[i]%tr==0)
-            {
-                totalmal=totalmal+(piles[i]/tr);
-            }
-            else{
-                totalmal=totalmal+((piles[i]/tr)+1);
-            }
-        }
-        return totalmal;
+        return hour;
     }
     int minEatingSpeed(vector<int>& piles, int h) {
-        int low=1;
-        int high=maxnum(piles);
-        while(low<=high)
+        int min_speed=1;
+        long max_speed=*max_element(piles.begin(),piles.end());
+        int n=piles.size();
+        int ans=-1;
+        while(min_speed<=max_speed)
         {
-            int mid=(low+high)/2;
-            long long totalh=totalmal(piles,mid);
-            if(totalh<=h)
+            long mid=min_speed+(max_speed-min_speed)/2;
+            if(reqHour(piles,mid)<=h)
             {
-                high=mid-1;
+                ans=mid;
+                max_speed=mid-1;
             }
             else{
-                low=mid+1;
+                min_speed=mid+1;
             }
         }
-        return low;
+        return ans;
     }
 };
