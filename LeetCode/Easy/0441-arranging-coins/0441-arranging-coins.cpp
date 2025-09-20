@@ -2,14 +2,23 @@ class Solution {
 public:
     int arrangeCoins(int n) {
         int ans=0;
-        for(int i=1;i<=n;i++)
+        int left=0;
+        int right=n;
+        while(left<=right)
         {
-            long long temp=(1LL * i*(i+1))/2;
-            if(temp>n)
+            int mid=left+ (right-left)/2;
+            long long temp=(1LL * mid*(mid+1))/2;
+            if(temp==n)
             {
-                return ans;
+                return mid;
             }
-            ans=i;
+            if(temp<n)
+            {
+                ans=mid;
+                left=mid+1;
+            }else{
+                right=mid-1;
+            }
         }
         return ans;
     }
