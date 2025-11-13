@@ -1,22 +1,27 @@
 class Solution {
 public:
     vector<vector<int>>ans;
-    void permuteHelper(vector<int> &nums,int i)
+    void backtrack(vector<int> &nums,vector<int>&temp)
     {
-        if(i==nums.size())
+        if(temp.size()==nums.size())
         {
-            ans.push_back(nums);
+            ans.push_back(temp);
             return ;
         }
-        for(int j=i;j<nums.size();j++)
+        for(int i=0;i<nums.size();i++)
         {
-            swap(nums[i],nums[j]);
-            permuteHelper(nums,i+1);
-            swap(nums[i],nums[j]);
+            if (find(temp.begin(), temp.end(), nums[i]) != temp.end())
+            {
+                continue;
+            }
+            temp.push_back(nums[i]);
+            backtrack(nums,temp);
+            temp.pop_back();
         }
     }
     vector<vector<int>> permute(vector<int>& nums) {
-        permuteHelper(nums,0);
+        vector<int>temp;
+        backtrack(nums,temp);
         return ans;
     }
 };
