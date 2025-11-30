@@ -2,13 +2,13 @@ class Solution {
 public:
     vector<int> runningSum(vector<int>& nums) {
         int n=nums.size();
-        vector<int>ans(n,0);
-        int sum=0;
-        for (int i=0;i<n;i++)
+        vector<int> prefixArr(n,0);
+        prefixArr[0]=nums[0];
+
+        for(int i=1;i<n;i++)
         {
-            sum+=nums[i];
-            ans[i]=sum;
+            prefixArr[i]=nums[i]+prefixArr[i-1];
         }
-        return ans;
+        return prefixArr;
     }
 };
