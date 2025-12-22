@@ -1,27 +1,29 @@
 class Solution {
 public:
-    vector<vector<int>> subsetsHelper(vector<int>& nums,int i) {
-        vector<vector<int>> ans;
-        if(i==nums.size())
+    vector<vector<int>> answer={};
+    vector<int> current={};
+
+    void subsetHelper(vector<int> &nums,int index)
+    {
+
+        if(index==nums.size())
         {
-            return {{}};
+            answer.push_back(current);
+            return;
         }
 
-        vector<vector<int>> partial=subsetsHelper(nums,i+1);
-        // not take
-        for(auto v: partial)
-        {
-            ans.push_back(v);
-        }
-        for(auto v: partial)
-        {
-            v.push_back(nums[i]);
-            ans.push_back(v);
-        }
-        return ans;
+        // i have two option
+        // taking the elements.. 
+        current.push_back(nums[index]);
+        subsetHelper(nums,index+1);
+
+        // backtrack or remove the last element
+        current.pop_back();
+        subsetHelper(nums,index+1);
     }
 
     vector<vector<int>> subsets(vector<int>& nums) {
-        return subsetsHelper(nums,0);
+        subsetHelper(nums,0);
+        return answer;
     }
 };
