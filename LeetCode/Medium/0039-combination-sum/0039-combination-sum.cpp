@@ -16,15 +16,13 @@ public:
                 current.push_back(candidates[i]);
                 helperCombi(candidates,target-candidates[i],i,current);
                 current.pop_back();
-            }else {
-                break;
             }
         }
     }
 
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
         vector<int> current={};
-        sort(candidates.begin(),candidates.end());
+        // sort(candidates.begin(),candidates.end());
         helperCombi(candidates,target,0,current);
 
         return answer;
