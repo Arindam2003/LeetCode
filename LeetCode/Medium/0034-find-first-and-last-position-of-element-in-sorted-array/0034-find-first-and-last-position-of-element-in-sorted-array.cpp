@@ -1,56 +1,57 @@
 class Solution {
 public:
-    int firstOccurence(vector<int>&nums,int target)
-    {
+
+int lastO(vector<int> &nums,int target)
+    {   
+        int index=-1;
         int n=nums.size();
-        int left=0;
-        int right=n-1;
-        int ans=-1;
-        while(left<=right)
+        int st=0,end=n-1;
+        while(st<=end)
         {
-            int mid=left+(right-left)/2;
-            if (nums[mid] == target) {
-                ans = mid;
-                right = mid - 1;
-            }
-            else if(nums[mid]>target)
+            int mid=(st+end)/2;
+            if(nums[mid]==target)
             {
-                right=mid-1;
-            }else{
-                left=mid+1;
+                index=mid;
+                st=mid+1;
+            }else if(nums[mid]>target)
+            {
+                end=mid-1;
+            }
+            else{
+                st=mid+1;
             }
         }
-        return ans;
+        return index;
     }
 
-    int lastOccurence(vector<int>&nums,int target)
-    {
+    int firstO(vector<int> &nums,int target)
+    {   
+        int index=-1;
         int n=nums.size();
-        int left=0;
-        int right=n-1;
-        int ans=-1;
-        while(left<=right)
+        int st=0,end=n-1;
+        while(st<=end)
         {
-            int mid=left+(right-left)/2;
-            if (nums[mid] == target) {
-                ans = mid;
-                left = mid + 1;
-            }
-            else if(nums[mid]<target)
+            int mid=(st+end)/2;
+            if(nums[mid]==target)
             {
-                left=mid+1;
-            }else{
-                right=mid-1;
+                index=mid;
+                end=mid-1;
+            }else if(nums[mid]>target)
+            {
+                end=mid-1;
+            }
+            else{
+                st=mid+1;
             }
         }
-        return ans;
+        return index;
     }
     vector<int> searchRange(vector<int>& nums, int target) {
-        vector<int> ans;
-        int first=firstOccurence(nums,target);
-        int last=lastOccurence(nums,target);
+        vector<int> ans={};
+        int first=firstO(nums,target);
+        int last=lastO(nums,target);
         ans.push_back(first);
         ans.push_back(last);
         return ans;
     }
-};
+};  
