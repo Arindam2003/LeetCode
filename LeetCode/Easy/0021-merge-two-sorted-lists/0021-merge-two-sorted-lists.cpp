@@ -26,48 +26,13 @@ public:
             return list1;
         }
 
-        ListNode *i=list1;
-        ListNode *j=list2;
-
-        ListNode *aH=nullptr;
-        ListNode *aT=nullptr;
-
-        while(i!=nullptr && j!=nullptr)
+        if(list1->val < list2->val)
         {
-            if(i->val < j->val)
-            {
-                if(aH==nullptr)
-                {
-                    aH=i;
-                    aT=i;
-                }else{
-                    aT->next=i;
-                    aT=i;
-                }
-                i=i->next;
-            }
-            else{
-                if(aH==nullptr)
-                {
-                    aH=j;
-                    aT=j;
-                }else{
-                    aT->next=j;
-                    aT=j;
-                }
-                j=j->next;
-            }
+            list1->next=mergeTwoLists(list1->next,list2);
+            return list1;
+        }else{
+            list2->next=mergeTwoLists(list1,list2->next);
+            return list2;
         }
-
-        if(i!=nullptr)
-        {
-            aT->next=i;
-        }
-
-        if(j!=nullptr)
-        {
-            aT->next=j;
-        }
-        return aH;
     }
 };
