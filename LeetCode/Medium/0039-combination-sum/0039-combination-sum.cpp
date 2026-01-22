@@ -9,8 +9,11 @@ public:
             answer.push_back(current);
             return;
         }
+
         for(int i=start;i<candidates.size();i++)
         {
+
+            // option concept here 'n' option so i take for loop
             if(target>=candidates[i])
             {
                 current.push_back(candidates[i]);
