@@ -1,24 +1,24 @@
 class Solution {
 public:
     vector<vector<int>> generate(int numRows) {
-        vector<vector<int>> answer;
+        vector<vector<int>> ans={};
+        vector<int> first={};
+        first.push_back(1);
+        ans.push_back(first);
+        int middle=0; // counting the middle element...
 
-        vector<int>firstRow;
-        firstRow.push_back(1);
-        answer.push_back(firstRow);
-        int middleElement=0;
         for(int i=1;i<numRows;i++)
         {
-            vector<int>currentRow;
-            currentRow.push_back(1);
-            for(int j=1;j<=middleElement;j++)
+            vector<int> current={};
+            current.push_back(1);
+            for(int j=1;j<=middle;j++) // generate the middle element
             {
-                currentRow.push_back(answer[i-1][j]+answer[i-1][j-1]);
+                current.push_back(ans[i-1][j]+ans[i-1][j-1]);
             }
-            middleElement++;
-            currentRow.push_back(1);
-            answer.push_back(currentRow);
+            middle++;
+            current.push_back(1);
+            ans.push_back(current);
         }
-        return answer;
+        return ans;
     }
 };
