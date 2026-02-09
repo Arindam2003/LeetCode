@@ -14,11 +14,11 @@ public:
             return;
         }
 
-
-        current.push_back('(');
-        recur(n, sum + 1, i + 1);
-        current.pop_back();
-
+        if (sum <= n / 2) {
+            current.push_back('(');
+            recur(n, sum + 1, i + 1);
+            current.pop_back();
+        }
         if (sum > 0) {
             current.push_back(')');
             recur(n, sum - 1, i + 1);
