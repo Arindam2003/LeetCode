@@ -1,7 +1,7 @@
 class Solution {
 public:
     int subarraySum(vector<int>& nums, int k) {
-        map<int,int>m={};
+        map<int,int>m={}; // ordered map
         m[0]=1; // this is for checking is it 
         int answer=0;
         int sum=0;
