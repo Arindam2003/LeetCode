@@ -1,32 +1,36 @@
 class NumMatrix {
 public:
-    vector<vector<int>>preMatrix;
-    vector<int> preSum(vector<int> nums)
-    {
-        int n=nums.size();
-        vector<int> ans(n,0);
-        ans[0]=nums[0];
-        for(int i=1;i<n;i++)
+    vector<vector<int>> prefixMatrix;
+    vector<int> preSum(vector<int>row)
+    {   
+        int n=row.size();
+        vector<int> prefixRow(n,0);
+        prefixRow[0]=row[0];
+        for(int i=1;i<row.size();i++)
         {
-            ans[i]=ans[i-1]+nums[i];
+            prefixRow[i]=prefixRow[i-1]+row[i];
         }
-        return ans;
+        return prefixRow;
     }
+
     NumMatrix(vector<vector<int>>& matrix) {
-        for(int i=0;i<matrix.size();i++)
+        for(auto row:matrix)
         {
-            preMatrix.push_back(preSum(matrix[i]));
+            prefixMatrix.push_back(preSum(row));
         }
     }
     
     int sumRegion(int row1, int col1, int row2, int col2) {
         int sum = 0;
-        for (int r = row1; r <= row2; r++) {
-            if (col1 == 0)
-                sum += preMatrix[r][col2];
+
+        for(int r = row1; r <= row2; r++)
+        {
+            if(col1 == 0)
+                sum += prefixMatrix[r][col2];
             else
-                sum += preMatrix[r][col2] - preMatrix[r][col1 - 1];
+                sum += prefixMatrix[r][col2] - prefixMatrix[r][col1 - 1];
         }
+
         return sum;
     }
 };
