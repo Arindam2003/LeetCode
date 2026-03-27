@@ -54,4 +54,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Arindam2003/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/Arindam2003/LeetCode/tree/main/0050-powx-n/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/Arindam2003/LeetCode/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
