@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Arindam2003/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0054-spiral-matrix](https://github.com/Arindam2003/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arindam2003/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Arindam2003/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -62,4 +63,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/Arindam2003/LeetCode/tree/main/0050-powx-n/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Arindam2003/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 <!---LeetCode Topics End-->
