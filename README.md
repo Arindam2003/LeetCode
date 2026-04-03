@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Arindam2003/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Arindam2003/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0054-spiral-matrix](https://github.com/Arindam2003/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0119-pascals-triangle-ii](https://github.com/Arindam2003/LeetCode/tree/main/0119-pascals-triangle-ii/) | Easy |
@@ -23,6 +24,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Arindam2003/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Arindam2003/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -74,4 +76,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0119-pascals-triangle-ii](https://github.com/Arindam2003/LeetCode/tree/main/0119-pascals-triangle-ii/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Arindam2003/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
