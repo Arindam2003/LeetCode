@@ -30,6 +30,7 @@
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Arindam2003/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Arindam2003/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/Arindam2003/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Arindam2003/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -94,6 +95,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Arindam2003/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0119-pascals-triangle-ii](https://github.com/Arindam2003/LeetCode/tree/main/0119-pascals-triangle-ii/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -103,6 +105,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Arindam2003/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/Arindam2003/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0051-n-queens](https://github.com/Arindam2003/LeetCode/tree/main/0051-n-queens/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
