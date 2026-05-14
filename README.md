@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Arindam2003/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Arindam2003/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0016-3sum-closest](https://github.com/Arindam2003/LeetCode/tree/main/0016-3sum-closest/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Arindam2003/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
@@ -18,6 +19,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Arindam2003/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0012-integer-to-roman](https://github.com/Arindam2003/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Arindam2003/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arindam2003/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
