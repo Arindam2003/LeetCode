@@ -5,13 +5,11 @@ public:
         int n=nums.size();
         for(int i=0;i<n;i++)
         {
-            int number=nums[i];
-            int more=target-number;
-            if(mpp.find(more)!=mpp.end())
+            if(mpp.find(target-nums[i])!=mpp.end())
             {
-                return {i,mpp[more]};
+                return {i,mpp[target-nums[i]]};
             }
-            mpp[number]=i;
+            mpp[nums[i]]=i;
         }
         return {-1, -1};
     }
