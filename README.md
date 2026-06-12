@@ -44,6 +44,7 @@
 | [0022-generate-parentheses](https://github.com/Arindam2003/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arindam2003/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0038-count-and-say](https://github.com/Arindam2003/LeetCode/tree/main/0038-count-and-say/) | Medium |
+| [0058-length-of-last-word](https://github.com/Arindam2003/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
 | [0093-restore-ip-addresses](https://github.com/Arindam2003/LeetCode/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0242-valid-anagram](https://github.com/Arindam2003/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Arindam2003/LeetCode/tree/main/0344-reverse-string/) | Easy |
