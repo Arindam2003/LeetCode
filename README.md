@@ -11,6 +11,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Arindam2003/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0051-n-queens](https://github.com/Arindam2003/LeetCode/tree/main/0051-n-queens/) | Hard |
 | [0054-spiral-matrix](https://github.com/Arindam2003/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Arindam2003/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Arindam2003/LeetCode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arindam2003/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Arindam2003/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -58,6 +59,7 @@
 | [0016-3sum-closest](https://github.com/Arindam2003/LeetCode/tree/main/0016-3sum-closest/) | Medium |
 | [0027-remove-element](https://github.com/Arindam2003/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arindam2003/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0088-merge-sorted-array](https://github.com/Arindam2003/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0344-reverse-string](https://github.com/Arindam2003/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0825-friends-of-appropriate-ages](https://github.com/Arindam2003/LeetCode/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Arindam2003/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -66,6 +68,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/Arindam2003/LeetCode/tree/main/0016-3sum-closest/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Arindam2003/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0242-valid-anagram](https://github.com/Arindam2003/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0825-friends-of-appropriate-ages](https://github.com/Arindam2003/LeetCode/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Arindam2003/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
