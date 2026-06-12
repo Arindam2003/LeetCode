@@ -14,6 +14,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Arindam2003/LeetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Arindam2003/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Arindam2003/LeetCode/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0189-rotate-array](https://github.com/Arindam2003/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arindam2003/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Arindam2003/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Arindam2003/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -62,6 +63,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arindam2003/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Arindam2003/LeetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Arindam2003/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0189-rotate-array](https://github.com/Arindam2003/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0344-reverse-string](https://github.com/Arindam2003/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0825-friends-of-appropriate-ages](https://github.com/Arindam2003/LeetCode/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Arindam2003/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -120,6 +122,7 @@
 | [0013-roman-to-integer](https://github.com/Arindam2003/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0050-powx-n](https://github.com/Arindam2003/LeetCode/tree/main/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/Arindam2003/LeetCode/tree/main/0069-sqrtx/) | Easy |
+| [0189-rotate-array](https://github.com/Arindam2003/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0343-integer-break](https://github.com/Arindam2003/LeetCode/tree/main/0343-integer-break/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Arindam2003/LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Recursion
