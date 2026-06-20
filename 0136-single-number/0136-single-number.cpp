@@ -1,14 +1,20 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        unordered_map<int, int> hash;
-        for (int num : nums) {
-            hash[num]++;
+        unordered_map<int,int>mpp;
+
+        for(int i = 0; i < nums.size(); i++){
+            mpp[nums[i]]++;
         }
-        for (auto& pair : hash) {
-            if (pair.second == 1)
-                return pair.first;
+
+        for(auto a: mpp)
+        {
+            if(a.second==1)
+            {
+                return a.first;
+            }
         }
-        return -1;
+
+        return nums[0];
     }
 };
