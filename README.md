@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Arindam2003/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Arindam2003/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0016-3sum-closest](https://github.com/Arindam2003/LeetCode/tree/main/0016-3sum-closest/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Arindam2003/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Arindam2003/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Arindam2003/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0051-n-queens](https://github.com/Arindam2003/LeetCode/tree/main/0051-n-queens/) | Hard |
@@ -62,6 +63,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/Arindam2003/LeetCode/tree/main/0016-3sum-closest/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Arindam2003/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Arindam2003/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arindam2003/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Arindam2003/LeetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
