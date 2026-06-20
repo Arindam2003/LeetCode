@@ -17,6 +17,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Arindam2003/LeetCode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arindam2003/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0189-rotate-array](https://github.com/Arindam2003/LeetCode/tree/main/0189-rotate-array/) | Medium |
+| [0283-move-zeroes](https://github.com/Arindam2003/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arindam2003/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Arindam2003/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Arindam2003/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -71,6 +72,7 @@
 | [0088-merge-sorted-array](https://github.com/Arindam2003/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Arindam2003/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/Arindam2003/LeetCode/tree/main/0189-rotate-array/) | Medium |
+| [0283-move-zeroes](https://github.com/Arindam2003/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Arindam2003/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0825-friends-of-appropriate-ages](https://github.com/Arindam2003/LeetCode/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Arindam2003/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
