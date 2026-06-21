@@ -140,6 +140,7 @@
 | [0231-power-of-two](https://github.com/Arindam2003/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Arindam2003/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0343-integer-break](https://github.com/Arindam2003/LeetCode/tree/main/0343-integer-break/) | Medium |
+| [0509-fibonacci-number](https://github.com/Arindam2003/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Arindam2003/LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -147,6 +148,7 @@
 | [0002-add-two-numbers](https://github.com/Arindam2003/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/Arindam2003/LeetCode/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/Arindam2003/LeetCode/tree/main/0231-power-of-two/) | Easy |
+| [0509-fibonacci-number](https://github.com/Arindam2003/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -161,6 +163,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Arindam2003/LeetCode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arindam2003/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0343-integer-break](https://github.com/Arindam2003/LeetCode/tree/main/0343-integer-break/) | Medium |
+| [0509-fibonacci-number](https://github.com/Arindam2003/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -212,4 +215,8 @@
 | [0136-single-number](https://github.com/Arindam2003/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/Arindam2003/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Arindam2003/LeetCode/tree/main/0268-missing-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Arindam2003/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
