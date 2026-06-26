@@ -10,38 +10,28 @@
  */
 class Solution {
 public:
-    ListNode* reverseList(ListNode* head) {
-    ListNode *prev = nullptr;  // Previous node
-    ListNode *current = head; // Current node
-    ListNode *next = nullptr; // Next node (for holding)
-
-    while (current != nullptr) {
-        next = current->next;
-        current->next = prev;
-        prev = current;
-        current = next;
-    }
-    return prev;
-}
-
-ListNode* removeNthFromEnd(ListNode* head, int n) {
-    if (head == nullptr || (head->next == nullptr && n == 1)) {
-        return nullptr;
-    }
-
-    ListNode* temp = reverseList(head);
-
-    if (n == 1) {
-        temp = temp->next; 
-    } else {
-        ListNode* current = temp;
-        for (int i = 1; i < n - 1; ++i) {
-            current = current->next;
+    ListNode* removeNthFromEnd(ListNode* head, int n) {
+        ListNode* temp=head;
+        int len=0;
+        while(temp)
+        {
+            temp=temp->next;
+            len++;
         }
-        current->next = current->next->next;
+
+        if(len==n) // delete first node
+        {
+            return head->next;
+        }
+
+        int prev_pos=len-n;
+        temp=head;
+        for(int i=1;i<prev_pos;i++)
+        {
+            temp=temp->next;
+        }
+
+        temp->next=temp->next->next;
+        return head;
     }
-
-    return reverseList(temp);
-}
-
 };
