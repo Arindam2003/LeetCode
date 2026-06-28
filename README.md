@@ -70,6 +70,7 @@
 | [0344-reverse-string](https://github.com/Arindam2003/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Arindam2003/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Arindam2003/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Arindam2003/LeetCode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Arindam2003/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2942-find-words-containing-character](https://github.com/Arindam2003/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Arindam2003/LeetCode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
@@ -243,6 +244,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Arindam2003/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Arindam2003/LeetCode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Arindam2003/LeetCode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -282,4 +284,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0707-design-linked-list](https://github.com/Arindam2003/LeetCode/tree/main/0707-design-linked-list/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Arindam2003/LeetCode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 <!---LeetCode Topics End-->
