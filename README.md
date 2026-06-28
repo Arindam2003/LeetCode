@@ -74,6 +74,7 @@
 | [0771-jewels-and-stones](https://github.com/Arindam2003/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Arindam2003/LeetCode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Arindam2003/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1903-largest-odd-number-in-string](https://github.com/Arindam2003/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Arindam2003/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Arindam2003/LeetCode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/Arindam2003/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -163,6 +164,7 @@
 | [0268-missing-number](https://github.com/Arindam2003/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0343-integer-break](https://github.com/Arindam2003/LeetCode/tree/main/0343-integer-break/) | Medium |
 | [0509-fibonacci-number](https://github.com/Arindam2003/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/Arindam2003/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Arindam2003/LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -292,4 +294,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Arindam2003/LeetCode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/Arindam2003/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 <!---LeetCode Topics End-->
