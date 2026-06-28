@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/isomorphic-strings">205. Isomorphic Strings</a></h2><h3>Easy</h3><hr><p>Given two strings <code>s</code> and <code>t</code>, <em>determine if they are isomorphic</em>.</p>
+<h2><a href="https://leetcode.com/problems/isomorphic-strings/">205. Isomorphic Strings</a></h2><h3>Easy</h3><hr><p>Given two strings <code>s</code> and <code>t</code>, <em>determine if they are isomorphic</em>.</p>
 
 <p>Two strings <code>s</code> and <code>t</code> are isomorphic if the characters in <code>s</code> can be replaced to get <code>t</code>.</p>
 
@@ -25,13 +25,13 @@
 <p><strong class="example">Example 2:</strong></p>
 
 <div class="example-block">
-<p><strong>Input:</strong> <span class="example-io">s = &quot;foo&quot;, t = &quot;bar&quot;</span></p>
+<p><strong>Input:</strong> <span class="example-io">s = &quot;f11&quot;, t = &quot;b23&quot;</span></p>
 
 <p><strong>Output:</strong> <span class="example-io">false</span></p>
 
 <p><strong>Explanation:</strong></p>
 
-<p>The strings <code>s</code> and <code>t</code> can not be made identical as <code>&#39;o&#39;</code> needs to be mapped to both <code>&#39;a&#39;</code> and <code>&#39;r&#39;</code>.</p>
+<p>The strings <code>s</code> and <code>t</code> can not be made identical as <code>&#39;1&#39;</code> needs to be mapped to both <code>&#39;2&#39;</code> and <code>&#39;3&#39;</code>.</p>
 </div>
 
 <p><strong class="example">Example 3:</strong></p>
