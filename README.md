@@ -40,6 +40,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Arindam2003/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Arindam2003/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Arindam2003/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0205-isomorphic-strings](https://github.com/Arindam2003/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Arindam2003/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Arindam2003/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Arindam2003/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -67,6 +68,7 @@
 | [0093-restore-ip-addresses](https://github.com/Arindam2003/LeetCode/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0125-valid-palindrome](https://github.com/Arindam2003/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Arindam2003/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0205-isomorphic-strings](https://github.com/Arindam2003/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Arindam2003/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Arindam2003/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Arindam2003/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
