@@ -1,53 +1,50 @@
 class MyStack {
 public:
-    queue<int> q1;
-    queue<int> q2;
+    queue<int> q;
+
     MyStack() { 
     }
     
     void push(int x) {
-        q1.push(x);
+        q.push(x);
     }
     
     int pop() {
         // pop n-1 ele and push to helper q
-        int n=q1.size();
+        int n=q.size();
         for(int i=0;i<n-1;i++)
         {
-            // pop from q1
-            int frnt=q1.front();
-            q2.push(frnt);
-            q1.pop();
+            // pop from q
+            int frnt=q.front();
+            q.push(frnt);
+            q.pop();
         }
         // pop the last elele in main  q
-        int ans=q1.front();
-        q1.pop();
-        // exchange main and helper q
-        swap(q1,q2);
+        int ans=q.front();
+        q.pop();
+
         return ans;
     }
     
     int top() {
         // pop n-1 ele and push to helper q
-        int n=q1.size();
+        int n=q.size();
         for(int i=0;i<n-1;i++)
         {
             // pop from q1
-            int frnt=q1.front();
-            q2.push(frnt);
-            q1.pop();
+            int frnt=q.front();
+            q.push(frnt);
+            q.pop();
         }
         // pop the last elele in main  q
-        int ans=q1.front();
-        q1.pop();
-        q2.push(ans);
-        // exchange main and helper q
-        swap(q1,q2);
+        int ans=q.front();
+        q.pop();
+        q.push(ans);
         return ans;
     }
     
     bool empty() {
-        if(q1.size()==0)
+        if(q.size()==0)
         {
             return true;
         }else {
