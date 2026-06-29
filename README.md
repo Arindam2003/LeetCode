@@ -218,6 +218,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Arindam2003/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0094-binary-tree-inorder-traversal](https://github.com/Arindam2003/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0225-implement-stack-using-queues](https://github.com/Arindam2003/LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Arindam2003/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -239,6 +240,7 @@
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Arindam2003/LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Arindam2003/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Arindam2003/LeetCode/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 ## Heap (Priority Queue)
@@ -297,6 +299,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Arindam2003/LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0707-design-linked-list](https://github.com/Arindam2003/LeetCode/tree/main/0707-design-linked-list/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
