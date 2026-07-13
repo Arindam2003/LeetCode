@@ -339,4 +339,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/Arindam2003/LeetCode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1291-sequential-digits](https://github.com/Arindam2003/LeetCode/tree/main/1291-sequential-digits/) | Medium |
 <!---LeetCode Topics End-->
