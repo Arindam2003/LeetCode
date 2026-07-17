@@ -33,6 +33,7 @@
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Arindam2003/LeetCode/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Arindam2003/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Arindam2003/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/Arindam2003/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/Arindam2003/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Arindam2003/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Hash Table
@@ -54,6 +55,7 @@
 | [0567-permutation-in-string](https://github.com/Arindam2003/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0771-jewels-and-stones](https://github.com/Arindam2003/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Arindam2003/LeetCode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/Arindam2003/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Arindam2003/LeetCode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -194,6 +196,7 @@
 | [0343-integer-break](https://github.com/Arindam2003/LeetCode/tree/main/0343-integer-break/) | Medium |
 | [0509-fibonacci-number](https://github.com/Arindam2003/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Arindam2003/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/Arindam2003/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Arindam2003/LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Arindam2003/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Arindam2003/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -218,6 +221,7 @@
 | [0268-missing-number](https://github.com/Arindam2003/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/Arindam2003/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0825-friends-of-appropriate-ages](https://github.com/Arindam2003/LeetCode/tree/main/0825-friends-of-appropriate-ages/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/Arindam2003/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -290,6 +294,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Arindam2003/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Arindam2003/LeetCode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Arindam2003/LeetCode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/Arindam2003/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Arindam2003/LeetCode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -352,6 +357,15 @@
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Arindam2003/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Arindam2003/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Arindam2003/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Arindam2003/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Arindam2003/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 <!---LeetCode Topics End-->
