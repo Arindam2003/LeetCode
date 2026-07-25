@@ -15,6 +15,7 @@
 | [0051-n-queens](https://github.com/Arindam2003/LeetCode/tree/main/0051-n-queens/) | Hard |
 | [0054-spiral-matrix](https://github.com/Arindam2003/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Arindam2003/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0078-subsets](https://github.com/Arindam2003/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Arindam2003/LeetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Arindam2003/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Arindam2003/LeetCode/tree/main/0119-pascals-triangle-ii/) | Easy |
@@ -250,6 +251,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Arindam2003/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/Arindam2003/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0051-n-queens](https://github.com/Arindam2003/LeetCode/tree/main/0051-n-queens/) | Hard |
+| [0078-subsets](https://github.com/Arindam2003/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/Arindam2003/LeetCode/tree/main/0093-restore-ip-addresses/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -314,6 +316,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/Arindam2003/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/Arindam2003/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/Arindam2003/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Arindam2003/LeetCode/tree/main/0268-missing-number/) | Easy |
