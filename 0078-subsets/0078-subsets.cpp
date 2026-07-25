@@ -1,22 +1,29 @@
 class Solution {
-    void recur(int i,vector<int> &arr, vector<int> &nums,int n, vector<vector<int>>&ans)
+public:
+    vector<vector<int>> answer={};
+    vector<int> current={};
+
+    void subsetHelper(vector<int> &nums,int index)
     {
-        if(i==nums.size())
+
+        if(index==nums.size())
         {
-            ans.push_back(arr);
+            answer.push_back(current);
             return;
         }
-        recur(i+1,arr,nums,n,ans);
-        arr.push_back(nums[i]);
-        recur(i+1,arr,nums,n,ans);
-        arr.pop_back();
+
+        // i have two option
+        // taking the elements.. 
+        current.push_back(nums[index]);
+        subsetHelper(nums,index+1);
+
+        // backtrack or remove the last element
+        current.pop_back();
+        subsetHelper(nums,index+1);
     }
-public:
+
     vector<vector<int>> subsets(vector<int>& nums) {
-        vector<vector<int>> ans;
-        vector<int> arr;
-        int n=nums.size();
-        recur(0,arr,nums,n,ans);
-        return ans;
+        subsetHelper(nums,0);
+        return answer;
     }
 };
