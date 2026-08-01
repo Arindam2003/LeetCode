@@ -158,6 +158,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Arindam2003/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/Arindam2003/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Arindam2003/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
+| [0102-binary-tree-level-order-traversal](https://github.com/Arindam2003/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arindam2003/LeetCode/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Arindam2003/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Arindam2003/LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -175,6 +176,7 @@
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Arindam2003/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Arindam2003/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
+| [0102-binary-tree-level-order-traversal](https://github.com/Arindam2003/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arindam2003/LeetCode/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [2685-count-the-number-of-complete-components](https://github.com/Arindam2003/LeetCode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Binary Tree
@@ -183,6 +185,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Arindam2003/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/Arindam2003/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Arindam2003/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
+| [0102-binary-tree-level-order-traversal](https://github.com/Arindam2003/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arindam2003/LeetCode/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Arindam2003/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 ## Matrix
