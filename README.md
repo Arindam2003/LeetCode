@@ -161,6 +161,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Arindam2003/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arindam2003/LeetCode/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Arindam2003/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/Arindam2003/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Arindam2003/LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -188,6 +189,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Arindam2003/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arindam2003/LeetCode/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Arindam2003/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/Arindam2003/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -238,6 +240,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Arindam2003/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/Arindam2003/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Arindam2003/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/Arindam2003/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0268-missing-number](https://github.com/Arindam2003/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/Arindam2003/LeetCode/tree/main/0278-first-bad-version/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/Arindam2003/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
@@ -330,6 +333,7 @@
 | ------- | ------- |
 | [0078-subsets](https://github.com/Arindam2003/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/Arindam2003/LeetCode/tree/main/0136-single-number/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/Arindam2003/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0231-power-of-two](https://github.com/Arindam2003/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Arindam2003/LeetCode/tree/main/0268-missing-number/) | Easy |
 ## Memoization
