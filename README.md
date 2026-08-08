@@ -162,6 +162,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Arindam2003/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arindam2003/LeetCode/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Arindam2003/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0145-binary-tree-postorder-traversal](https://github.com/Arindam2003/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Arindam2003/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Arindam2003/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Arindam2003/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
@@ -173,6 +174,7 @@
 | [0100-same-tree](https://github.com/Arindam2003/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Arindam2003/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arindam2003/LeetCode/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Arindam2003/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Arindam2003/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Arindam2003/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [2685-count-the-number-of-complete-components](https://github.com/Arindam2003/LeetCode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -194,6 +196,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Arindam2003/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arindam2003/LeetCode/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Arindam2003/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0145-binary-tree-postorder-traversal](https://github.com/Arindam2003/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Arindam2003/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Arindam2003/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Arindam2003/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
@@ -280,6 +283,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Arindam2003/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0094-binary-tree-inorder-traversal](https://github.com/Arindam2003/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Arindam2003/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/Arindam2003/LeetCode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Arindam2003/LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Arindam2003/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
