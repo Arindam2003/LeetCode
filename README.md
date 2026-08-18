@@ -29,6 +29,7 @@
 | [0268-missing-number](https://github.com/Arindam2003/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Arindam2003/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0324-wiggle-sort-ii](https://github.com/Arindam2003/LeetCode/tree/main/0324-wiggle-sort-ii/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Arindam2003/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0376-wiggle-subsequence](https://github.com/Arindam2003/LeetCode/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arindam2003/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Arindam2003/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -61,6 +62,7 @@
 | [0205-isomorphic-strings](https://github.com/Arindam2003/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Arindam2003/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Arindam2003/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Arindam2003/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Arindam2003/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Arindam2003/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arindam2003/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -156,6 +158,7 @@
 | [0242-valid-anagram](https://github.com/Arindam2003/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Arindam2003/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0324-wiggle-sort-ii](https://github.com/Arindam2003/LeetCode/tree/main/0324-wiggle-sort-ii/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Arindam2003/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Arindam2003/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0825-friends-of-appropriate-ages](https://github.com/Arindam2003/LeetCode/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0912-sort-an-array](https://github.com/Arindam2003/LeetCode/tree/main/0912-sort-an-array/) | Medium |
@@ -330,6 +333,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arindam2003/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Arindam2003/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Arindam2003/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/Arindam2003/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Arindam2003/LeetCode/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
@@ -344,6 +348,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Arindam2003/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Arindam2003/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Arindam2003/LeetCode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Arindam2003/LeetCode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
@@ -372,6 +377,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Arindam2003/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arindam2003/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/Arindam2003/LeetCode/tree/main/0324-wiggle-sort-ii/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Arindam2003/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/Arindam2003/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -380,6 +386,7 @@
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Arindam2003/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/Arindam2003/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 ## Radix Sort
 | Problem Name | Difficulty |
@@ -458,4 +465,5 @@
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arindam2003/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/Arindam2003/LeetCode/tree/main/0324-wiggle-sort-ii/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Arindam2003/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
