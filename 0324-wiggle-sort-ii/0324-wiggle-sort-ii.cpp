@@ -1,19 +1,38 @@
 class Solution {
 public:
     void wiggleSort(vector<int>& nums) {
-        vector<int> temp=nums;
-        sort(temp.begin(),temp.end());
-        int mid=(nums.size()+1)/2;
-        int j=nums.size()-1;
-        int l=mid-1;
-        int k=0;
-        for(int i=0;i<nums.size();i++)
-        {
-            if(i%2==0)
-            {
-                nums[i]=temp[l--];
-            }else{
-                nums[i]=temp[j--];
+        int n = nums.size();
+
+        // Find median using nth_element
+        auto mid = nums.begin() + n / 2;
+        nth_element(nums.begin(), mid, nums.end());
+        int median = *mid;
+
+        // Virtual indexing
+        auto index = [n](int i) {
+            return (1 + 2 * i) % (n | 1);
+        };
+
+        int left = 0;
+        int i = 0;
+        int right = n - 1;
+
+        // 3-way partition
+        while (i <= right) {
+
+            if (nums[index(i)] > median) {
+                swap(nums[index(left)], nums[index(i)]);
+                left++;
+                i++;
+            }
+
+            else if (nums[index(i)] < median) {
+                swap(nums[index(i)], nums[index(right)]);
+                right--;
+            }
+
+            else {
+                i++;
             }
         }
     }
