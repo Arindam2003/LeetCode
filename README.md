@@ -46,6 +46,7 @@
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Arindam2003/LeetCode/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Arindam2003/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Arindam2003/LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2404-most-frequent-even-element](https://github.com/Arindam2003/LeetCode/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Arindam2003/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Arindam2003/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/Arindam2003/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -73,6 +74,7 @@
 | [0692-top-k-frequent-words](https://github.com/Arindam2003/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0771-jewels-and-stones](https://github.com/Arindam2003/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Arindam2003/LeetCode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [2404-most-frequent-even-element](https://github.com/Arindam2003/LeetCode/tree/main/2404-most-frequent-even-element/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Arindam2003/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Arindam2003/LeetCode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 ## Sliding Window
@@ -363,6 +365,7 @@
 | [0692-top-k-frequent-words](https://github.com/Arindam2003/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Arindam2003/LeetCode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Arindam2003/LeetCode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [2404-most-frequent-even-element](https://github.com/Arindam2003/LeetCode/tree/main/2404-most-frequent-even-element/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Arindam2003/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Arindam2003/LeetCode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 ## String Matching
