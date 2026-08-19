@@ -23,6 +23,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Arindam2003/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0119-pascals-triangle-ii](https://github.com/Arindam2003/LeetCode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arindam2003/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Arindam2003/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0136-single-number](https://github.com/Arindam2003/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/Arindam2003/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arindam2003/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -288,6 +289,7 @@
 | [0022-generate-parentheses](https://github.com/Arindam2003/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0119-pascals-triangle-ii](https://github.com/Arindam2003/LeetCode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arindam2003/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Arindam2003/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0343-integer-break](https://github.com/Arindam2003/LeetCode/tree/main/0343-integer-break/) | Medium |
 | [0376-wiggle-subsequence](https://github.com/Arindam2003/LeetCode/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0509-fibonacci-number](https://github.com/Arindam2003/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
@@ -421,6 +423,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Arindam2003/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/Arindam2003/LeetCode/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0376-wiggle-subsequence](https://github.com/Arindam2003/LeetCode/tree/main/0376-wiggle-subsequence/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Arindam2003/LeetCode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
