@@ -119,6 +119,7 @@
 | [1221-split-a-string-in-balanced-strings](https://github.com/Arindam2003/LeetCode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Arindam2003/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Arindam2003/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/Arindam2003/LeetCode/tree/main/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Arindam2003/LeetCode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Arindam2003/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Arindam2003/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
@@ -152,6 +153,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/Arindam2003/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Arindam2003/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1019-squares-of-a-sorted-array](https://github.com/Arindam2003/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/Arindam2003/LeetCode/tree/main/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Arindam2003/LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Arindam2003/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Sorting
@@ -427,6 +429,7 @@
 | [0324-wiggle-sort-ii](https://github.com/Arindam2003/LeetCode/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0376-wiggle-subsequence](https://github.com/Arindam2003/LeetCode/tree/main/0376-wiggle-subsequence/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Arindam2003/LeetCode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
+| [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/Arindam2003/LeetCode/tree/main/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Arindam2003/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
