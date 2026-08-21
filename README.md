@@ -48,6 +48,7 @@
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Arindam2003/LeetCode/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Arindam2003/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Arindam2003/LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/Arindam2003/LeetCode/tree/main/2195-append-k-integers-with-minimal-sum/) | Medium |
 | [2404-most-frequent-even-element](https://github.com/Arindam2003/LeetCode/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Arindam2003/LeetCode/tree/main/2554-maximum-number-of-integers-to-choose-from-a-range-i/) | Medium |
 | [2942-find-words-containing-character](https://github.com/Arindam2003/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
@@ -181,6 +182,7 @@
 | [0912-sort-an-array](https://github.com/Arindam2003/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Arindam2003/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1019-squares-of-a-sorted-array](https://github.com/Arindam2003/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/Arindam2003/LeetCode/tree/main/2195-append-k-integers-with-minimal-sum/) | Medium |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Arindam2003/LeetCode/tree/main/2554-maximum-number-of-integers-to-choose-from-a-range-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Arindam2003/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Arindam2003/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -259,6 +261,7 @@
 | [0343-integer-break](https://github.com/Arindam2003/LeetCode/tree/main/0343-integer-break/) | Medium |
 | [0509-fibonacci-number](https://github.com/Arindam2003/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Arindam2003/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/Arindam2003/LeetCode/tree/main/2195-append-k-integers-with-minimal-sum/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Arindam2003/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/Arindam2003/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Arindam2003/LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -441,6 +444,7 @@
 | [1221-split-a-string-in-balanced-strings](https://github.com/Arindam2003/LeetCode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/Arindam2003/LeetCode/tree/main/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Arindam2003/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/Arindam2003/LeetCode/tree/main/2195-append-k-integers-with-minimal-sum/) | Medium |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Arindam2003/LeetCode/tree/main/2554-maximum-number-of-integers-to-choose-from-a-range-i/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
