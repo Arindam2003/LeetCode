@@ -204,6 +204,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Arindam2003/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Arindam2003/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Arindam2003/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/Arindam2003/LeetCode/tree/main/3203-find-minimum-diameter-after-merging-two-trees/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Arindam2003/LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -216,6 +217,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Arindam2003/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Arindam2003/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [2685-count-the-number-of-complete-components](https://github.com/Arindam2003/LeetCode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
+| [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/Arindam2003/LeetCode/tree/main/3203-find-minimum-diameter-after-merging-two-trees/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Arindam2003/LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -225,6 +227,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Arindam2003/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arindam2003/LeetCode/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [2685-count-the-number-of-complete-components](https://github.com/Arindam2003/LeetCode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
+| [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/Arindam2003/LeetCode/tree/main/3203-find-minimum-diameter-after-merging-two-trees/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -465,6 +468,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/Arindam2003/LeetCode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
+| [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/Arindam2003/LeetCode/tree/main/3203-find-minimum-diameter-after-merging-two-trees/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
