@@ -343,6 +343,7 @@
 | [0022-generate-parentheses](https://github.com/Arindam2003/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0046-permutations](https://github.com/Arindam2003/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Arindam2003/LeetCode/tree/main/0051-n-queens/) | Hard |
+| [0077-combinations](https://github.com/Arindam2003/LeetCode/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/Arindam2003/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/Arindam2003/LeetCode/tree/main/0093-restore-ip-addresses/) | Medium |
 ## Stack
