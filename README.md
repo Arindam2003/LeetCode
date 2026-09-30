@@ -87,6 +87,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Arindam2003/LeetCode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2336-smallest-number-in-infinite-set](https://github.com/Arindam2003/LeetCode/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2404-most-frequent-even-element](https://github.com/Arindam2003/LeetCode/tree/main/2404-most-frequent-even-element/) | Easy |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Arindam2003/LeetCode/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Arindam2003/LeetCode/tree/main/2554-maximum-number-of-integers-to-choose-from-a-range-i/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Arindam2003/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Arindam2003/LeetCode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
@@ -385,6 +386,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Arindam2003/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Arindam2003/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Arindam2003/LeetCode/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Arindam2003/LeetCode/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -414,6 +416,7 @@
 | [1221-split-a-string-in-balanced-strings](https://github.com/Arindam2003/LeetCode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Arindam2003/LeetCode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/Arindam2003/LeetCode/tree/main/2404-most-frequent-even-element/) | Easy |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Arindam2003/LeetCode/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Arindam2003/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Arindam2003/LeetCode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 ## String Matching
@@ -468,6 +471,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Arindam2003/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0707-design-linked-list](https://github.com/Arindam2003/LeetCode/tree/main/0707-design-linked-list/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/Arindam2003/LeetCode/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Arindam2003/LeetCode/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -556,4 +560,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Arindam2003/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Arindam2003/LeetCode/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
 <!---LeetCode Topics End-->
