@@ -287,6 +287,7 @@
 | [0231-power-of-two](https://github.com/Arindam2003/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Arindam2003/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0343-integer-break](https://github.com/Arindam2003/LeetCode/tree/main/0343-integer-break/) | Medium |
+| [0367-valid-perfect-square](https://github.com/Arindam2003/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0509-fibonacci-number](https://github.com/Arindam2003/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Arindam2003/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Arindam2003/LeetCode/tree/main/2195-append-k-integers-with-minimal-sum/) | Medium |
@@ -317,6 +318,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Arindam2003/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0268-missing-number](https://github.com/Arindam2003/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/Arindam2003/LeetCode/tree/main/0278-first-bad-version/) | Easy |
+| [0367-valid-perfect-square](https://github.com/Arindam2003/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/Arindam2003/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0704-binary-search](https://github.com/Arindam2003/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0825-friends-of-appropriate-ages](https://github.com/Arindam2003/LeetCode/tree/main/0825-friends-of-appropriate-ages/) | Medium |
