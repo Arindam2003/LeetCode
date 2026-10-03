@@ -1,6 +1,6 @@
 class MyHashMap {
     vector<list<pair<int,int>>>arr;
-    const double MAX_LOAD_FACTOR = 0.15;
+    const double MAX_LOAD_FACTOR = 0.50;
     const int INITIAL_CAPACITY=1;
     int currSize,currBuckets;
 
