@@ -45,6 +45,7 @@
 | [0658-find-k-closest-elements](https://github.com/Arindam2003/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Arindam2003/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0704-binary-search](https://github.com/Arindam2003/LeetCode/tree/main/0704-binary-search/) | Easy |
+| [0706-design-hashmap](https://github.com/Arindam2003/LeetCode/tree/main/0706-design-hashmap/) | Easy |
 | [0825-friends-of-appropriate-ages](https://github.com/Arindam2003/LeetCode/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Arindam2003/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0912-sort-an-array](https://github.com/Arindam2003/LeetCode/tree/main/0912-sort-an-array/) | Medium |
@@ -83,6 +84,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arindam2003/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Arindam2003/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Arindam2003/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0706-design-hashmap](https://github.com/Arindam2003/LeetCode/tree/main/0706-design-hashmap/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Arindam2003/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Arindam2003/LeetCode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2336-smallest-number-in-infinite-set](https://github.com/Arindam2003/LeetCode/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
@@ -379,6 +381,7 @@
 | [0206-reverse-linked-list](https://github.com/Arindam2003/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Arindam2003/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/Arindam2003/LeetCode/tree/main/0328-odd-even-linked-list/) | Medium |
+| [0706-design-hashmap](https://github.com/Arindam2003/LeetCode/tree/main/0706-design-hashmap/) | Easy |
 | [0707-design-linked-list](https://github.com/Arindam2003/LeetCode/tree/main/0707-design-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Arindam2003/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Queue
@@ -471,6 +474,7 @@
 | [0155-min-stack](https://github.com/Arindam2003/LeetCode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Arindam2003/LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Arindam2003/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0706-design-hashmap](https://github.com/Arindam2003/LeetCode/tree/main/0706-design-hashmap/) | Easy |
 | [0707-design-linked-list](https://github.com/Arindam2003/LeetCode/tree/main/0707-design-linked-list/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/Arindam2003/LeetCode/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Arindam2003/LeetCode/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
@@ -520,6 +524,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Arindam2003/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0706-design-hashmap](https://github.com/Arindam2003/LeetCode/tree/main/0706-design-hashmap/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
