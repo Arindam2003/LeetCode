@@ -91,6 +91,7 @@
 | [0771-jewels-and-stones](https://github.com/Arindam2003/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Arindam2003/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Arindam2003/LeetCode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [2034-stock-price-fluctuation](https://github.com/Arindam2003/LeetCode/tree/main/2034-stock-price-fluctuation/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/Arindam2003/LeetCode/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2404-most-frequent-even-element](https://github.com/Arindam2003/LeetCode/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Arindam2003/LeetCode/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
@@ -406,11 +407,13 @@
 | [0692-top-k-frequent-words](https://github.com/Arindam2003/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0912-sort-an-array](https://github.com/Arindam2003/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Arindam2003/LeetCode/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+| [2034-stock-price-fluctuation](https://github.com/Arindam2003/LeetCode/tree/main/2034-stock-price-fluctuation/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/Arindam2003/LeetCode/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Arindam2003/LeetCode/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+| [2034-stock-price-fluctuation](https://github.com/Arindam2003/LeetCode/tree/main/2034-stock-price-fluctuation/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/Arindam2003/LeetCode/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
@@ -482,6 +485,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Arindam2003/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0706-design-hashmap](https://github.com/Arindam2003/LeetCode/tree/main/0706-design-hashmap/) | Easy |
 | [0707-design-linked-list](https://github.com/Arindam2003/LeetCode/tree/main/0707-design-linked-list/) | Medium |
+| [2034-stock-price-fluctuation](https://github.com/Arindam2003/LeetCode/tree/main/2034-stock-price-fluctuation/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/Arindam2003/LeetCode/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Arindam2003/LeetCode/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
 ## Greedy
@@ -577,5 +581,6 @@
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2034-stock-price-fluctuation](https://github.com/Arindam2003/LeetCode/tree/main/2034-stock-price-fluctuation/) | Medium |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Arindam2003/LeetCode/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
 <!---LeetCode Topics End-->
