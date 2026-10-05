@@ -85,6 +85,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Arindam2003/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Arindam2003/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arindam2003/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0460-lfu-cache](https://github.com/Arindam2003/LeetCode/tree/main/0460-lfu-cache/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/Arindam2003/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/Arindam2003/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Arindam2003/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -389,6 +390,7 @@
 | [0206-reverse-linked-list](https://github.com/Arindam2003/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Arindam2003/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/Arindam2003/LeetCode/tree/main/0328-odd-even-linked-list/) | Medium |
+| [0460-lfu-cache](https://github.com/Arindam2003/LeetCode/tree/main/0460-lfu-cache/) | Hard |
 | [0706-design-hashmap](https://github.com/Arindam2003/LeetCode/tree/main/0706-design-hashmap/) | Easy |
 | [0707-design-linked-list](https://github.com/Arindam2003/LeetCode/tree/main/0707-design-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Arindam2003/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -486,6 +488,7 @@
 | [0155-min-stack](https://github.com/Arindam2003/LeetCode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Arindam2003/LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Arindam2003/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0460-lfu-cache](https://github.com/Arindam2003/LeetCode/tree/main/0460-lfu-cache/) | Hard |
 | [0706-design-hashmap](https://github.com/Arindam2003/LeetCode/tree/main/0706-design-hashmap/) | Easy |
 | [0707-design-linked-list](https://github.com/Arindam2003/LeetCode/tree/main/0707-design-linked-list/) | Medium |
 | [2034-stock-price-fluctuation](https://github.com/Arindam2003/LeetCode/tree/main/2034-stock-price-fluctuation/) | Medium |
@@ -590,4 +593,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/Arindam2003/LeetCode/tree/main/0146-lru-cache/) | Medium |
+| [0460-lfu-cache](https://github.com/Arindam2003/LeetCode/tree/main/0460-lfu-cache/) | Hard |
 <!---LeetCode Topics End-->
