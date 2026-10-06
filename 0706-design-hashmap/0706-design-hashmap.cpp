@@ -1,10 +1,27 @@
 class MyHashMap {
     vector<list<pair<int, int>>> arr;
-    int const initial_capacity = 1;
+    const int initial_capacity = 1;
     int cap, bucketSize;
-
+    const double MAX_LOAD_FACTOR=0.75;
 public:
     int blackBox(int key) { return key % bucketSize; }
+
+    void reHash()
+    {
+        vector<list<pair<int, int>>> arr2;
+        bucketSize=2*bucketSize;
+        arr2.resize(bucketSize);
+        for(auto a:arr)
+        {
+            for (auto x:a)
+            {
+                int newIndex=blackBox(x.first);
+                arr2[newIndex].push_back({x.first,x.second});
+            }
+        }
+
+        arr=arr2;
+    }
 
     MyHashMap() {
         bucketSize = initial_capacity;
@@ -22,6 +39,14 @@ public:
             }
         }
         arr[currIndex].push_back({key, value});
+        cap++;
+
+        double currLoadFactor=(double)cap/bucketSize;
+        
+        if(currLoadFactor>MAX_LOAD_FACTOR)
+        {
+            reHash();
+        }
     }
 
     int get(int key) {
