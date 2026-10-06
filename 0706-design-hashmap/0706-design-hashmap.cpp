@@ -1,92 +1,50 @@
 class MyHashMap {
-    vector<list<pair<int,int>>>arr;
-    const double MAX_LOAD_FACTOR = 0.50;
-    const int INITIAL_CAPACITY=1;
-    int currSize,currBuckets;
+    vector<list<pair<int, int>>> arr;
+    int const initial_capacity = 1;
+    int cap, bucketSize;
 
-    int hash(int key)
-    {
-        return key % currBuckets;
-    }
-
-    list<pair<int,int>>::iterator get(list<pair<int,int>> &ll,int key)
-    {
-        auto it = ll.begin();
-        while(it != ll.end())
-        {
-            if(it->first==key)
-            {
-                return it;
-            }
-            it++;
-        }
-        return ll.end();
-    }
-
-
-    void rehash() {
-        vector<list<pair<int,int> > > arr2(2*currBuckets);
-        currBuckets *= 2;
-
-        // Go to all the elements in the old Array & add to new Array
-        for(auto &ll : arr) {
-            for(auto currPair : ll) {
-                int newId = hash(currPair.first);
-                arr2[newId].push_front(currPair);
-            }
-        }
-
-        arr = arr2; // Update the arr;
-    }
-
-    double currLoadFactor() {
-        return currSize/(double)currBuckets;
-    }
 public:
+    int blackBox(int key) { return key % bucketSize; }
+
     MyHashMap() {
-        currSize=0;
-        currBuckets=INITIAL_CAPACITY;
-        arr.resize(currBuckets);
+        bucketSize = initial_capacity;
+        cap = 0;
+        arr.resize(bucketSize);
     }
-    
+
     void put(int key, int value) {
-        int i=hash(key);
-        auto it=get(arr[i],key);
+        int currIndex = blackBox(key);
 
-        if(it!=arr[i].end()) // found
-        {
-            it->second=value;
-        }else{
-            arr[i].push_front({key, value});
-            currSize++;
+        for (auto &a : arr[currIndex]) {
+            if (a.first == key) {
+                a.second = value;
+                return;
+            }
         }
-
-        if(currLoadFactor()>MAX_LOAD_FACTOR)
-        {
-            rehash();
-        }
+        arr[currIndex].push_back({key, value});
     }
-    
+
     int get(int key) {
-        int i=hash(key);
-        for(auto a : arr[i])
-        {
-            if(a.first == key)
-            {
+        int currIndex = blackBox(key);
+        for (auto a : arr[currIndex]) {
+            if (a.first == key) {
                 return a.second;
             }
         }
         return -1;
     }
-    
-    void remove(int key) {
-        int i=hash(key);
-        auto it=get(arr[i],key);
 
-        if(it!=arr[i].end())
-        {
-            arr[i].erase(it);
-            currSize--;
+    void remove(int key) {
+        int currIndex = blackBox(key);
+        auto it = arr[currIndex].begin();
+
+        while (it != arr[currIndex].end()) {
+            if (it->first == key) {
+                arr[currIndex].erase(it);
+                return;
+            }
+
+            ++it;
         }
     }
 };
