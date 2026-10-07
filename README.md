@@ -50,6 +50,7 @@
 | [0825-friends-of-appropriate-ages](https://github.com/Arindam2003/LeetCode/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Arindam2003/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0912-sort-an-array](https://github.com/Arindam2003/LeetCode/tree/main/0912-sort-an-array/) | Medium |
+| [0929-unique-email-addresses](https://github.com/Arindam2003/LeetCode/tree/main/0929-unique-email-addresses/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Arindam2003/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1019-squares-of-a-sorted-array](https://github.com/Arindam2003/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Arindam2003/LeetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
@@ -91,6 +92,7 @@
 | [0692-top-k-frequent-words](https://github.com/Arindam2003/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0706-design-hashmap](https://github.com/Arindam2003/LeetCode/tree/main/0706-design-hashmap/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Arindam2003/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
+| [0929-unique-email-addresses](https://github.com/Arindam2003/LeetCode/tree/main/0929-unique-email-addresses/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Arindam2003/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Arindam2003/LeetCode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2034-stock-price-fluctuation](https://github.com/Arindam2003/LeetCode/tree/main/2034-stock-price-fluctuation/) | Medium |
@@ -137,6 +139,7 @@
 | [0567-permutation-in-string](https://github.com/Arindam2003/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Arindam2003/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0771-jewels-and-stones](https://github.com/Arindam2003/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
+| [0929-unique-email-addresses](https://github.com/Arindam2003/LeetCode/tree/main/0929-unique-email-addresses/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Arindam2003/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Arindam2003/LeetCode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Arindam2003/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
