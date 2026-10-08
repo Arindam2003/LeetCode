@@ -57,6 +57,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Arindam2003/LeetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Arindam2003/LeetCode/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Arindam2003/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1695-maximum-erasure-value](https://github.com/Arindam2003/LeetCode/tree/main/1695-maximum-erasure-value/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Arindam2003/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Arindam2003/LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Arindam2003/LeetCode/tree/main/2195-append-k-integers-with-minimal-sum/) | Medium |
@@ -97,6 +98,7 @@
 | [0929-unique-email-addresses](https://github.com/Arindam2003/LeetCode/tree/main/0929-unique-email-addresses/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Arindam2003/LeetCode/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Arindam2003/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1695-maximum-erasure-value](https://github.com/Arindam2003/LeetCode/tree/main/1695-maximum-erasure-value/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Arindam2003/LeetCode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2034-stock-price-fluctuation](https://github.com/Arindam2003/LeetCode/tree/main/2034-stock-price-fluctuation/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/Arindam2003/LeetCode/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
@@ -116,6 +118,7 @@
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Arindam2003/LeetCode/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Arindam2003/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Arindam2003/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1695-maximum-erasure-value](https://github.com/Arindam2003/LeetCode/tree/main/1695-maximum-erasure-value/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Arindam2003/LeetCode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## String
 | Problem Name | Difficulty |
