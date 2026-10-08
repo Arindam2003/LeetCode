@@ -53,6 +53,7 @@
 | [0929-unique-email-addresses](https://github.com/Arindam2003/LeetCode/tree/main/0929-unique-email-addresses/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Arindam2003/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1019-squares-of-a-sorted-array](https://github.com/Arindam2003/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Arindam2003/LeetCode/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Arindam2003/LeetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Arindam2003/LeetCode/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Arindam2003/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -93,6 +94,7 @@
 | [0706-design-hashmap](https://github.com/Arindam2003/LeetCode/tree/main/0706-design-hashmap/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Arindam2003/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0929-unique-email-addresses](https://github.com/Arindam2003/LeetCode/tree/main/0929-unique-email-addresses/) | Easy |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Arindam2003/LeetCode/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Arindam2003/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Arindam2003/LeetCode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2034-stock-price-fluctuation](https://github.com/Arindam2003/LeetCode/tree/main/2034-stock-price-fluctuation/) | Medium |
@@ -141,6 +143,7 @@
 | [0771-jewels-and-stones](https://github.com/Arindam2003/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0929-unique-email-addresses](https://github.com/Arindam2003/LeetCode/tree/main/0929-unique-email-addresses/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Arindam2003/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Arindam2003/LeetCode/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Arindam2003/LeetCode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Arindam2003/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Arindam2003/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -433,6 +436,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Arindam2003/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Arindam2003/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Arindam2003/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Arindam2003/LeetCode/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Arindam2003/LeetCode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Arindam2003/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Arindam2003/LeetCode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
