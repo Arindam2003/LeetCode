@@ -1,46 +1,26 @@
 class Solution {
 public:
     int romanToInt(string s) {
-        int ans = 0;
-        for (int i = 0; i < s.size(); i++) {
-            if (s[i] == 'I') {
-                ans += 1;
-            } else if (s[i] == 'V') {
-                if (i > 0 && s[i - 1] == 'I') {
-                    ans += 3; // +4 - 1 (remove previous I)
-                } else {
-                    ans += 5;
-                }
-            } else if (s[i] == 'X') {
-                if (i > 0 && s[i - 1] == 'I') {
-                    ans += 8; // +9 - 1
-                } else {
-                    ans += 10;
-                }
-            } else if (s[i] == 'L') {
-                if (i > 0 && s[i - 1] == 'X') {
-                    ans += 30; // +40 - 10
-                } else {
-                    ans += 50;
-                }
-            } else if (s[i] == 'C') {
-                if (i > 0 && s[i - 1] == 'X') {
-                    ans += 80; // +90 - 10
-                } else {
-                    ans += 100;
-                }
-            } else if (s[i] == 'D') {
-                if (i > 0 && s[i - 1] == 'C') {
-                    ans += 300; // +400 - 100
-                } else {
-                    ans += 500;
-                }
-            } else if (s[i] == 'M') {
-                if (i > 0 && s[i - 1] == 'C') {
-                    ans += 800; // +900 - 100
-                } else {
-                    ans += 1000;
-                }
+        if(s.size()==0)
+        {
+            return 0;
+        }
+        unordered_map<char,int> mp;
+    mp['I']=1;
+    mp['V']=5;
+    mp['X']=10;
+    mp['L']=50;
+    mp['C']=100;
+    mp['D']=500;
+    mp['M']=1000;
+    int ans=0;
+        ans+=mp[s[0]];
+        for(int i=1;i<s.size();i++)
+        {
+            ans+=mp[s[i]];
+            if(mp[s[i]]>mp[s[i-1]])
+            {
+                ans=ans-2*mp[s[i-1]];
             }
         }
         return ans;
