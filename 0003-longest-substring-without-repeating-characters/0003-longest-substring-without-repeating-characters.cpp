@@ -20,16 +20,12 @@ public:
                     
                     i++;
                 }
+                
+            }
                 mp[s[j]]++;
                 ans = max(ans, j - i + 1);
                 j++;
-            }
-            else
-            {
-                mp[s[j]]++;
-                ans = max(ans, j - i + 1);
-                j++;
-            }
+
         }
         return ans;
     }
