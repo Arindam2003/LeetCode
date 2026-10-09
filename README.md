@@ -315,6 +315,7 @@
 | [0509-fibonacci-number](https://github.com/Arindam2003/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Arindam2003/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Arindam2003/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [1952-three-divisors](https://github.com/Arindam2003/LeetCode/tree/main/1952-three-divisors/) | Easy |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Arindam2003/LeetCode/tree/main/2195-append-k-integers-with-minimal-sum/) | Medium |
 | [2761-prime-pairs-with-target-sum](https://github.com/Arindam2003/LeetCode/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Arindam2003/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -536,11 +537,13 @@
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Arindam2003/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [1291-sequential-digits](https://github.com/Arindam2003/LeetCode/tree/main/1291-sequential-digits/) | Medium |
+| [1952-three-divisors](https://github.com/Arindam2003/LeetCode/tree/main/1952-three-divisors/) | Easy |
 | [2761-prime-pairs-with-target-sum](https://github.com/Arindam2003/LeetCode/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Arindam2003/LeetCode/tree/main/0204-count-primes/) | Medium |
+| [1952-three-divisors](https://github.com/Arindam2003/LeetCode/tree/main/1952-three-divisors/) | Easy |
 | [2761-prime-pairs-with-target-sum](https://github.com/Arindam2003/LeetCode/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Arindam2003/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Arindam2003/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -623,8 +626,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Arindam2003/LeetCode/tree/main/0204-count-primes/) | Medium |
+| [1952-three-divisors](https://github.com/Arindam2003/LeetCode/tree/main/1952-three-divisors/) | Easy |
 ## Prime Number Sieve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Arindam2003/LeetCode/tree/main/0204-count-primes/) | Medium |
+## Prime Factorization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1952-three-divisors](https://github.com/Arindam2003/LeetCode/tree/main/1952-three-divisors/) | Easy |
 <!---LeetCode Topics End-->
