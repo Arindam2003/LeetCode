@@ -64,6 +64,7 @@
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Arindam2003/LeetCode/tree/main/2195-append-k-integers-with-minimal-sum/) | Medium |
 | [2404-most-frequent-even-element](https://github.com/Arindam2003/LeetCode/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Arindam2003/LeetCode/tree/main/2554-maximum-number-of-integers-to-choose-from-a-range-i/) | Medium |
+| [2761-prime-pairs-with-target-sum](https://github.com/Arindam2003/LeetCode/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 | [2942-find-words-containing-character](https://github.com/Arindam2003/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Arindam2003/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/Arindam2003/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -315,6 +316,7 @@
 | [1512-number-of-good-pairs](https://github.com/Arindam2003/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Arindam2003/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Arindam2003/LeetCode/tree/main/2195-append-k-integers-with-minimal-sum/) | Medium |
+| [2761-prime-pairs-with-target-sum](https://github.com/Arindam2003/LeetCode/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Arindam2003/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/Arindam2003/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Arindam2003/LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -534,10 +536,12 @@
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Arindam2003/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [1291-sequential-digits](https://github.com/Arindam2003/LeetCode/tree/main/1291-sequential-digits/) | Medium |
+| [2761-prime-pairs-with-target-sum](https://github.com/Arindam2003/LeetCode/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Arindam2003/LeetCode/tree/main/0204-count-primes/) | Medium |
+| [2761-prime-pairs-with-target-sum](https://github.com/Arindam2003/LeetCode/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Arindam2003/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Arindam2003/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Arindam2003/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
