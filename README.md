@@ -65,6 +65,7 @@
 | [2404-most-frequent-even-element](https://github.com/Arindam2003/LeetCode/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Arindam2003/LeetCode/tree/main/2554-maximum-number-of-integers-to-choose-from-a-range-i/) | Medium |
 | [2761-prime-pairs-with-target-sum](https://github.com/Arindam2003/LeetCode/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Arindam2003/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Arindam2003/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Arindam2003/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/Arindam2003/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -107,6 +108,7 @@
 | [2404-most-frequent-even-element](https://github.com/Arindam2003/LeetCode/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Arindam2003/LeetCode/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Arindam2003/LeetCode/tree/main/2554-maximum-number-of-integers-to-choose-from-a-range-i/) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Arindam2003/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Arindam2003/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Arindam2003/LeetCode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 ## Sliding Window
@@ -635,4 +637,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1952-three-divisors](https://github.com/Arindam2003/LeetCode/tree/main/1952-three-divisors/) | Easy |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Arindam2003/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Arindam2003/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 <!---LeetCode Topics End-->
